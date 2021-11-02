@@ -140,4 +140,4 @@ async def on_message(message):
         file = discord.File("ta10.mp3")
         await message.channel.send(file=file)
 
-client.run("ODE4MjI0MDgzNzk1MzEyNjQy.YEU8jw.UTST5I-okPnDV8p-_yX9aVXafAg")
+client.run(" ")
